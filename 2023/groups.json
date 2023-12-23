@@ -1,0 +1,110 @@
+[
+  {
+    "category": "soccer",
+    "words": [
+      "coach",
+      "academy",
+      "goal",
+      "dribble",
+      "tackle"
+    ],
+    "images": [
+      "ewen_soccer_02.jpg",
+      "ewen_soccer_04.jpg",
+      "fiona_soccer_01.jpg",
+      "fiona_soccer_02.jpg"
+    ]
+  },
+  {
+    "category": "taekwondo",
+    "words": [
+      "kick",
+      "punch",
+      "break",
+      "spar",
+      "belt"
+    ],
+    "images": [
+      "tkd_01.jpg",
+      "tkd_02.jpg",
+      "tkd_video_01.mp4",
+      "tkd_video_02.mp4",
+      "tkd_video_03.mp4",
+      "tkd_video_04.mp4"
+    ]
+  },
+  {
+    "category": "vacations",
+    "words": [
+      "acadia",
+      "joshua",
+      "hike",
+      "waterfall",
+      "maine",
+      "california"
+    ],
+    "images": [
+      "maine_01.jpg",
+      "maine_02.jpg",
+      "maine_05.jpg",
+      "maine_06.jpg",
+      "maine_07.jpg",
+      "joshua_01.jpg",
+      "pisgah_01.jpg",
+      "pisgah_02.jpg",
+      "pisgah_03.jpg",
+      "pisgah_04.jpg"
+    ]
+  },
+  {
+    "category": "angus",
+    "words": [
+      "cute",
+      "scruffy",
+      "ears",
+      "walk",
+      "lick"
+    ],
+    "images": [
+      "angus_01.jpg",
+      "angus_02.jpg",
+      "angus_03.jpg",
+      "angus_04.jpg",
+      "angus_06.jpg",
+      "angus_07.jpg"
+    ]
+  },
+  {
+    "category": "concerts",
+    "words": [
+      "elder",
+      "mastodon",
+      "gojira",
+      "metal",
+      "band"
+    ],
+    "images": [
+      "budos_01.jpg",
+      "claypool_01.jpg",
+      "elder_02.jpg",
+      "gojira_01.jpg",
+      "mastodon_01.jpg"
+    ]
+  }, 
+  {
+    "category": "school activities",
+    "words": [
+      "brownie",
+      "chess",
+      "choir",
+      "sing",
+      "pawn",
+      "cookie"
+    ],
+    "images": [
+      "brownie_02.jpg",
+      "chess_01.jpg",
+      "treble_01.jpg"
+    ]
+  }
+]
